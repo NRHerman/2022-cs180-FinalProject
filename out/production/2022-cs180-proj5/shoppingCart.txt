@@ -1,0 +1,1 @@
+customer@gmail.com;Coding For Dummies,dummy@gmail.com,Coding Codex,Teaching dummies how to code.,5,6.99,0.10,Great characters!,At least 5 stars.;Hitchhiker's Guide To Java,seller@gmail.com,Second Store,A really good book.,14,10.00,0.00,,Good read.

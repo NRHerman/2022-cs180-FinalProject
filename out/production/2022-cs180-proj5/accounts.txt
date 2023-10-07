@@ -1,0 +1,3 @@
+customer@gmail.com,customer,customer
+seller@gmail.com,seller,seller
+q@,w,seller

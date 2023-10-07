@@ -1,0 +1,2 @@
+Into The Wild,seller@gmail.com,Chris's Books,A book about a boy's trek into the Alaskan wilderness.,2,11.99,0.10,Great book!,Pretty cool.,customer@gmail.com
+Unbroken,seller@gmail.com,Chris's Books,A book about a famous runner turned WWII prisoner.,2,9.99,0.00,Great!,customer@gmail.com
